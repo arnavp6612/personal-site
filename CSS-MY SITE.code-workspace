@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Resources"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "CSS-MY SITE"
+	}
+}
